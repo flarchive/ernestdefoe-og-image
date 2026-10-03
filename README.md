@@ -2,13 +2,22 @@
 
 > **Read-only archive of released versions of ernestdefoe/og-image.** Not for installation: use [Packagist](https://packagist.org/packages/ernestdefoe/og-image) or the [upstream repository](https://github.com/ernestdefoe/og-image).
 
-**0** versions archived · Latest: [`v2.0.9`](https://github.com/flarchive/ernestdefoe-og-image/tree/archive/v2.0.9) · License: `MIT` · Flarum: `^2.0`
+**10** versions archived · Latest: [`v2.0.9`](https://github.com/flarchive/ernestdefoe-og-image/tree/archive/v2.0.9) · License: `MIT` · Flarum: `^2.0`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| — | — | — | — |
+| `2.0.0` | 2026-05-10 | `^2.0` | [Browse](https://github.com/flarchive/ernestdefoe-og-image/tree/archive/v2.0.0) |
+| `2.0.1` | 2026-05-10 | `^2.0` | [Browse](https://github.com/flarchive/ernestdefoe-og-image/tree/archive/v2.0.1) |
+| `2.0.2` | 2026-05-10 | `^2.0` | [Browse](https://github.com/flarchive/ernestdefoe-og-image/tree/archive/v2.0.2) |
+| `2.0.3` | 2026-05-10 | `^2.0` | [Browse](https://github.com/flarchive/ernestdefoe-og-image/tree/archive/v2.0.3) |
+| `2.0.4` | 2026-05-12 | `^2.0` | [Browse](https://github.com/flarchive/ernestdefoe-og-image/tree/archive/v2.0.4) |
+| `v2.0.5` | 2026-05-26 | `^2.0` | [Browse](https://github.com/flarchive/ernestdefoe-og-image/tree/archive/v2.0.5) |
+| `v2.0.6` | 2026-05-30 | `^2.0` | [Browse](https://github.com/flarchive/ernestdefoe-og-image/tree/archive/v2.0.6) |
+| `v2.0.7` | 2026-05-30 | `^2.0` | [Browse](https://github.com/flarchive/ernestdefoe-og-image/tree/archive/v2.0.7) |
+| `v2.0.8` | 2026-09-12 | `^2.0` | [Browse](https://github.com/flarchive/ernestdefoe-og-image/tree/archive/v2.0.8) |
+| `v2.0.9` | 2026-09-13 | `^2.0` | [Browse](https://github.com/flarchive/ernestdefoe-og-image/tree/archive/v2.0.9) |
 
 Catalog entry: [packages/ernestdefoe-og-image.json](https://github.com/flarchive/archive-index/blob/main/packages/ernestdefoe-og-image.json)
 
